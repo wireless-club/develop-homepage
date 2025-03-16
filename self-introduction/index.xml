@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Self-introductions on 無線研究部homepage</title>
-    <link>http://example.org/self-introduction/</link>
+    <link>https://wireless-club.github.io/self-introduction/</link>
     <description>Recent content in Self-introductions on 無線研究部homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 08 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/self-introduction/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://wireless-club.github.io/self-introduction/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>サークル紹介</title>
-      <link>http://example.org/self-introduction/explain/</link>
+      <link>https://wireless-club.github.io/self-introduction/explain/</link>
       <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/self-introduction/explain/</guid>
+      <guid>https://wireless-club.github.io/self-introduction/explain/</guid>
       <description>ここで紹介します。</description>
     </item>
     
